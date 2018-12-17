@@ -3,21 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package simceel;
+package com.simceel.simceelback.config;
 
 /**
  *
  * @author junio
  */
-public class Simceel {
+public class WebMvcConfigurerAdapter {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-        private nome;
-        // TODO code application logic here
+    public WebMvcConfigurerAdapter() {
     }
     
 }

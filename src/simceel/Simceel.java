@@ -15,6 +15,8 @@ public class Simceel {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        private nome;
         // TODO code application logic here
     }
     
